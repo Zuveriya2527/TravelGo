@@ -12,7 +12,7 @@ app.secret_key = 'your_secret_key_here' # IMPORTANT: Change this to a strong, ra
 
 # AWS Setup using IAM Role
 <<<<<<< HEAD
-REGION = 'United States(N.Virginia'  # Replace with your actual AWS region
+REGION = 'us-east-1'  # Replace with your actual AWS region
 =======
 REGION = 'us-east-1' # Replace with your actual AWS region
 >>>>>>> 2bfe705 (Update app.py with latest changes)
